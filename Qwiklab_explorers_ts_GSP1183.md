@@ -1,4 +1,4 @@
-# Gating Deployments with Binary Authorization || [GSP1183](https://www.cloudskillsboost.google/games/5156/labs/33685) ||
+# Gating Deployments with Binary Authorization              || [GSP1183](https://www.cloudskillsboost.google/games/5156/labs/33685) ||
 
 # # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
