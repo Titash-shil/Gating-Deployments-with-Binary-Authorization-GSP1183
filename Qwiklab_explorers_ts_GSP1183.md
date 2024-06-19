@@ -29,7 +29,6 @@ BG_WHITE=`tput setab 7`
 
 BOLD=`tput bold`
 RESET=`tput sgr0`
-#----------------------------------------------------start--------------------------------------------------#
 
 echo "${YELLOW}${BOLD}Starting${RESET}" "${GREEN}${BOLD}Execution${RESET}"
 
@@ -415,7 +414,6 @@ EOM
 kubectl apply -f deploy.yaml
 
 echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREEN}${BOLD}Completing the Lab !!!${RESET}"
-
 #-----------------------------------------------------end----------------------------------------------------------#
 ```
 
